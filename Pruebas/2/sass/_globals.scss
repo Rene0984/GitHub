@@ -1,0 +1,26 @@
+@use "components";
+
+body {
+    background: #1B2431;
+}
+
+.search {
+    //width: 100%;
+    position: relative;
+    border-radius: 19px;
+    background-color: #323d4e;
+    border: 0.6px solid rgba(207, 207, 207, 0.11);
+    box-sizing: border-box;
+    height: 38px;
+    background-image: url(/assets/img/search.png);
+    background-repeat: no-repeat;
+    background-position: 10px;
+    padding-left: 2.5rem;
+    color: #fff;
+}
+
+.avatar {
+    border-radius: 50%;
+    
+}
+

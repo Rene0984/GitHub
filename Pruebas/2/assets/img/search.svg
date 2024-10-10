@@ -1,0 +1,10 @@
+<svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="17" height="17" fill="white"/>
+<rect x="-94" y="-26" width="1201" height="70" fill="#273142"/>
+<rect x="-16" y="-10" width="388" height="38" rx="19" fill="#323D4E"/>
+<rect x="-15.7" y="-9.7" width="387.4" height="37.4" rx="18.7" stroke="#CFCFCF" stroke-opacity="0.11421" stroke-width="0.6"/>
+<g opacity="0.8">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9.69353 12.5352C12.4234 11.375 13.6959 8.22157 12.5357 5.49174C11.3755 2.7619 8.22208 1.48942 5.49225 2.64957C2.76241 3.80972 1.48993 6.96318 2.65008 9.69302C3.81024 12.4229 6.9637 13.6953 9.69353 12.5352Z" stroke="white" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11.3903 11.3896L15.5556 15.5556" stroke="white" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
